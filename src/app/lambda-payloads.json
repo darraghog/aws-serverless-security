@@ -1,0 +1,14 @@
+{
+    "UnicornPartsFunction": {
+        "lambda": {},
+        "apigateway": {
+            "path": "/socks",
+            "method": {
+                "value": "GET",
+                "items": [
+                    "GET"
+                ]
+            }
+        }
+    }
+}

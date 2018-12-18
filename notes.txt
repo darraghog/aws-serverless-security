@@ -1,0 +1,23 @@
+auth_url: https://custom-unicorns-darraghog.auth.us-west-2.amazoncognito.com
+
+admin_app_client_id: 3o9e617phh2sashlktc7b5agca
+admin_app_client_secret: qerrfi1sd60vsuf774plm0d2recrh2ihfpdffn9162skc6vdcgm
+
+
+This is My Company:
+{
+    "ClientID":"78r1qkarpfku5pqgmeo1pu4hbp",
+    "ClientSecret":"1h58ucaip2vebb9nhtv1cu7r47iv9vsl3hq7gks6lm33rksbopsh"
+}
+
+Third Company:
+{
+    "ClientID": "6u4jp61nq1njpr428oilca39uv",
+    "ClientSecret": "1ovmaclkcgi2rk6c9g2gbrti3h74d6mji54pljibo2qrefrei0bv"
+}
+
+Fifth Company:
+{
+    "ClientID": "5cj6jc8fchvehs731jo26sc1na",
+    "ClientSecret": "1bfqbesnfh209b9oeaqd2h4mvfhrl4gdel2c6fglkhtsnditqab8"
+}
