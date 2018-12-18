@@ -1,5 +1,17 @@
 # Serverless Security Workshop
 
+## NOTE
+
+THIS IS A CLONE OF THE OFFICIAL [AWS WORKSHOP MATERIAL](https://github.com/aws-samples/aws-serverless-security-workshop) AND IS A SNAPSHOT AFTER ALL
+TUTORIAL EXERCISES HAVE COMPLETED.
+
+Note also that node_modules in `app` and `src` directories have been removed - npm install will need to 
+be rerun in these directories.
+
+The dependency-check utility will also need to be run.
+
+==========
+
 In this workshop, you will learn techniques to secure a serverless application built with AWS Lambda, Amazon API Gateway and RDS Aurora. We will cover AWS services and features you can leverage to improve the security of a serverless applications in 5 domains: 
 
 1. identity & access management
@@ -38,7 +50,7 @@ Here's an overview of the modules in this workshop and how they map to different
     	<a href="docs/01-add-authentication/"><img src="docs/images/moduel1.png" alt="module 1" height="90" width="140" width="150" width="185"></a>
 	 </th>
     <th width="60%">
-    	<span style="font-weight:bold">Code 🏰</span> <br> 
+    	<span style="font-weight:bold">Code ��</span> <br> 
     	<a href="docs/02-add-secrets-manager/"><img src="docs/images/module2.png" alt="module 2" height="90" width="140" width="150" width="185"></a>
     	<a href="docs/03-input-validation/"><img src="docs/images/module3.png" alt="module 3" height="90" width="140" width="150" width="185"></a>
     	<a href="docs/07-dependency-vulnerability/"><img src="docs/images/module7.png" alt="module 3" height="90" width="140" width="150" width="185" ></a>
